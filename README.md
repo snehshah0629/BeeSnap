@@ -1,8 +1,8 @@
-# BeeSnap-ML
+# BeeSnap
 
-This is the repository for the Machine Learning sub-team of the BeeSnap V.I.P. (Vertically Integrated Project) at Georgia Institute of Technology. This project consists of two main components. 
+This is the repository for the Machine Learning sub-team of the BeeSnap V.I.P. (Vertically Integrated Project) at Georgia Institute of Technology. This project consists of two main components: a bee-flower classification model and a bee tracking module.
 
-## Bee Flower Classification Model
+## Bee-Flower Classification Model
 The first component is a CNN model written using Keras and Tensorflow that classifies species of bees and flowers in Georgia. This model is able to successfully identify the species of a bee or flower given an image with over 90% accuracy, and will be integrated into a mobile application currently being developed by another sub-team in BeeSnap. Being able to identify specific bee and flower species can be used to further understand certain bee-flower interactions and can help researchers and bee hive owners formulate better strategies to grow their hives.
 
 ## Bee Tracking Module
